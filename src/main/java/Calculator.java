@@ -4,6 +4,9 @@ public class Calculator {
     }
 
     public long sumar(long a, long b){
+        System.out.println("Welcome"); 
+        System.out.println("To"); 
+        System.out.println("sonarqube"); 
         return a + b;
     }
 
